@@ -26,7 +26,7 @@
 <h3 align="center">Facebook Messages Sentiment Analysis</h3>
 
   <p align="center">
-    Analyze who you talk to, how much and with what sentiments.
+    Analyze who you talk to, how much and how the sentiment changes over time.
     <br />
     <a href="https://github.com/simondoebele/fbanalyzer"><strong>Explore the docs »</strong></a>
     <br />
